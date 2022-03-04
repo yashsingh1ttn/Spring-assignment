@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loose-Coupling/Loose-Coupling.iml" filepath="$PROJECT_DIR$/Loose-Coupling/Loose-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Assignment.iml" filepath="$PROJECT_DIR$/Spring-Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tight-Coupling/Tight-Coupling.iml" filepath="$PROJECT_DIR$/Tight-Coupling/Tight-Coupling.iml" />
+    </modules>
+  </component>
+</project>
